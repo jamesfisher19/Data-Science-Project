@@ -39,3 +39,11 @@ This topic holds personal significance to me, as I have witnessed numerous peopl
 - **Categorical Data Analysis**:
   - Create contingency tables comparing stage and percentage ranges.
   - Use chi-square tests to analyze patterns.
+
+## Assumptions and Limitations
+
+In this project, missing values in the `total_laid_off` column were replaced with `0`, based on the assumption that missing data likely indicates no layoffs were reported for those respective rows. This decision was made to simplify the analysis and ensure all rows contribute to trends and aggregates.
+
+It is important to note that this assumption may not fully reflect reality, as missing data could also represent unreported layoffs or incomplete records. However, since this project is for learning purposes, this simplification was deemed acceptable to focus on exploring data manipulation and analysis techniques. 
+
+This approach may introduce limitations, such as underestimating total layoffs or skewing results for specific questions, particularly those involving correlations or percentages. For professional or real-world applications, more rigorous imputation strategies or further investigation into missing data patterns would be necessary.
