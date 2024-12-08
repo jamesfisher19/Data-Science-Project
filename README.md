@@ -13,32 +13,13 @@ This topic holds personal significance to me, as I have witnessed numerous peopl
 - **Statistical Analysis**: Use time series analysis techniques to identify peaks, troughs, and trends.
 
 ### 2. Are certain industries or sectors within tech more prone to layoffs during economic downturns?
-- **Group by Industry**: Group data by industry and calculate the total layoffs and percentages for each.
-- **Normalize**: Compare layoffs relative to the size of each sector to avoid misleading results from larger industries.
-- **Chi-Square Test**: Perform a chi-square test to see if the distribution of layoffs across industries is significantly different.
-- **Cross-Tabulation**: Use pivot tables to compare layoffs across industries during specific timeframes, such as recession periods.
+- **Group by Industry**: Group data by industry and calculate the total number of layoffs for each sector. This highlights which industries experienced the highest layoffs over the analyzed period.
+- **Visualize Industry Layoffs**: Create a bar plot to display total layoffs by industry, sorted in descending order. This provides a clear comparison across sectors and helps identify which industries were most affected.
 
-### 3. What is the relationship between the amount of funds raised by a company and the likelihood or scale of layoffs?
-- **Scatter Plot Data Preparation**: Extract relevant columns (e.g., `funds_raised`, `total_laid_off`) to observe trends.
-- **Correlation Coefficient**: Calculate Pearson or Spearman correlation coefficients to assess the strength of the relationship.
-- **Regression Analysis**:
-  - Use linear regression to model the relationship between funds raised and total layoffs.
-  - Check the regression coefficient to understand the magnitude of the relationship.
-- **Categorical Comparison**: Divide companies into funding categories (e.g., low, medium, high funding) and compare average layoffs within each category.
-
-### 4. Were there any periods of heightened layoffs that align with major economic or global events (e.g., pandemic waves, inflation spikes)?
-- **Annotate Events**: Identify key dates for major events (e.g., COVID-19, inflationary periods) and align them with your timeline.
-- **Compare Time Periods**: Split data into pre-event, during-event, and post-event periods to calculate total layoffs for each phase.
-- **Statistical Tests**: Use t-tests or ANOVA to determine if layoffs during event periods are significantly different from other times.
-- **Event Windows**: Analyze data in windows around key events (e.g., 3 months before and after) to assess impact duration.
-
-### 5. Is there a correlation between the percentage of employees laid off and the stage of the company (e.g., startup vs. mature)?
-- **Group by Stage**: Group data by stage (e.g., startup, mature) and calculate average `percentage_laid_off` for each group.
-- **Box Plots or Summary Statistics**: Examine the distribution of layoffs within each stage.
-- **ANOVA or t-tests**: Use statistical tests to check if the differences in layoff percentages between stages are significant.
-- **Categorical Data Analysis**:
-  - Create contingency tables comparing stage and percentage ranges.
-  - Use chi-square tests to analyze patterns.
+### 3. Were there any periods of heightened layoffs that align with major economic or global events (e.g., pandemic waves, inflation spikes)?
+- **Annotate Events**: Focused on two key events: the COVID-19 pandemic start (March 2020) and the inflation spike (November 2022).
+- **Compare Time Periods**: Aggregated total layoffs for pre-event (3 months before), during-event (event month), and post-event (3 months after) periods for each event.
+- **Visualize Layoffs**: Created a grouped bar chart to compare layoffs across the three periods for each event, highlighting changes during these critical times.
 
 ## Assumptions and Limitations
 
