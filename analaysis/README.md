@@ -1,3 +1,4 @@
+## What trends can be observed in the number of layoffs over time (e.g., by month or year)?
 ![Alt text](images/visual1.png)
 
 ## DESCRIPTION
@@ -11,6 +12,7 @@ This visual is showing the number of monthly layoffs over a period of 4 years (2
 
 ---
 
+## Are certain industries or sectors within tech more prone to layoffs during economic downturns?
 ![Alt text](images/visual2.png)
 
 ## DESCRIPTION
@@ -36,6 +38,7 @@ This visual represents the total number of layoffs per sector to see which secto
 
 ---
 
+## Were there any periods of heightened layoffs that align with major economic or global events (e.g., pandemic waves, inflation spikes)?
 ![Alt text](images/visual3.png)
 
 ## DESCRIPTION
