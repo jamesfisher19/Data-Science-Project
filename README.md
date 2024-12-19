@@ -3,8 +3,6 @@
 ## Description
 This dataset documents tech layoffs reported from March 2020 to July 2024, offering valuable insights into workforce reductions during periods of economic downturn. Compiled using data from reputable sources such as Bloomberg, TechCrunch, and The New York Times, it provides a comprehensive view of the challenges faced by the tech industry.
 
-This topic holds personal significance to me, as I have witnessed numerous people in my field endure repeated layoffs over the past few years (as of 2024). By analyzing and visualizing this data, I aim to better understand the realities of the industry and prepare for the challenges of navigating the modern workforce.
-
 ## Questions for Analysis
 
 ### 1. What trends can be observed in the number of layoffs over time (e.g., by month or year)?
