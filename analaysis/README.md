@@ -1,5 +1,5 @@
 
-![Alt text](analaysis/images/visual1.png)
+![Alt text](images/visual1.png)
 
 ##DESCRIPTION
 This visual is showing the number of monthly layoffs over a period of 4 years (2020-2024).
@@ -11,7 +11,7 @@ This visual is showing the number of monthly layoffs over a period of 4 years (2
 - From November 2023 to October 2024, layoffs occurred in smaller but notable surges, suggesting ongoing turbulence in specific sectors.
 
 
-![Alt text](analaysis/images/visual2.png)
+![Alt text](images/visual2.png)
 
 ##DESCRIPTION
 This visual represents the total number of layoffs per sector to see which sectors had the highest/lowest number of layoffs.
@@ -35,7 +35,7 @@ This visual represents the total number of layoffs per sector to see which secto
 Product: With 2,126 layoffs, this sector appears to have been less impacted overall, potentially reflecting its niche focus.
 
 
-![Alt text](analaysis/images/visual3.png)
+![Alt text](images/visual3.png)
 
 ##DESCRIPTION
 This visual depicts the amount of layoffs for before, during, and after both the pandemic and inflation. This helps see which major event impacted layoffs the most.
