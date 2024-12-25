@@ -55,3 +55,4 @@ This visual depicts the amount of layoffs for before, during, and after both the
 
 ### Comparison:
 - The inflation spike had a more prolonged and substantial impact on layoffs compared to the pandemic, particularly in the post-event period.
+
