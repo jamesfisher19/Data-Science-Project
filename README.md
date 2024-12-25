@@ -26,3 +26,5 @@ In this project, missing values in the `total_laid_off` column were replaced wit
 It is important to note that this assumption may not fully reflect reality, as missing data could also represent unreported layoffs or incomplete records. However, since this project is for learning purposes, this simplification was deemed acceptable to focus on exploring data manipulation and analysis techniques. 
 
 This approach may introduce limitations, such as underestimating total layoffs or skewing results for specific questions, particularly those involving correlations or percentages. For professional or real-world applications, more rigorous imputation strategies or further investigation into missing data patterns would be necessary.
+
+# [Analysis](https://github.com/jamesfisher19/Data-Science-Project/tree/main/analysis)
