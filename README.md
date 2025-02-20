@@ -28,3 +28,5 @@ It is important to note that this assumption may not fully reflect reality, as m
 This approach may introduce limitations, such as underestimating total layoffs or skewing results for specific questions, particularly those involving correlations or percentages. For professional or real-world applications, more rigorous imputation strategies or further investigation into missing data patterns would be necessary.
 
 # [Analysis](https://github.com/jamesfisher19/Data-Science-Project/tree/main/analysis)
+---
+# [Layoff Analysis Pt.2](https://github.com/jamesfisher19/layoff-analysis/tree/main)
